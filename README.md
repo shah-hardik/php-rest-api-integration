@@ -1,4 +1,4 @@
-php-rest-api-integration
-========================
+php-rest-api
+============
 
-Integration of REST API for infusionsoft and dispatch api
+Simple REST API in PHP
