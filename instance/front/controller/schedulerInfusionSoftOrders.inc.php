@@ -3,7 +3,7 @@
 /**
  * File to import infusionsoft orders
  * 
- * @author Hardik Panchal<hardikpanchal469@gmail.com>
+ * @author Hardik Shahl<hardiks059@gmail.com>
  * @since January 20, 2014
  * 
  * 
